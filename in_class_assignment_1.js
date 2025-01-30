@@ -27,3 +27,10 @@ for (let i = 10; i >= 1; i--) {
     
     
 }
+
+// Task 4
+let count = 2;
+while (count <= 10) {
+    console.log("Count:", count);
+    count += 2;
+}
