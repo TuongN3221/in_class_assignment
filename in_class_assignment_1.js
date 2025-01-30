@@ -34,3 +34,10 @@ while (count <= 10) {
     console.log("Count:", count);
     count += 2;
 }
+
+// Task 5
+let number = 2
+function calculateSquare(amount) {
+    return amount * 2;
+}
+console.log(calculateSquare(2));
